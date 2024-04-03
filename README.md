@@ -23,4 +23,6 @@
 
 ### :man_technologist: About Me
 **Machine Learning Engineer** specializing in **Deep Learning** and **Computer Vision** applications.
+- 🚀 Conducting research on **Computer Vision** and **Generative Models**.
 - 🎓 MSc in Computing Science @ [University of Groningen](https://www.rug.nl/?lang=en) focusing on <em>Intelligent Systems & Visual Computing</em>.
+- 
