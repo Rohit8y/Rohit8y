@@ -1,7 +1,7 @@
-<h3 align="center"> Hi 👋, I'm Rohit Yadav
+<h2 align="center"> Hi 👋, I'm Rohit Yadav</h2>
 
 
-<img target="_blank" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width = 500 height = 320></h3>
+<div align="center"><img target="_blank" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width = 500 height = 320></div>
 
 <div align="center">
 <div id="badges">
@@ -15,8 +15,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Rohit8y&style=flat-square&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Rohit8y&style=flat-square" alt=""/>
 
 </div>
 
 ---
+
+### :man_technologist: About Me
+**Machine Learning Engineer** specializing in **Deep Learning** and **Computer Vision** applications.
+- 🎓 MSc in Computing Science @ [University of Groningen](https://www.rug.nl/?lang=en) focusing on <em>Intelligent Systems & Visual Computing</em>.
