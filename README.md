@@ -25,4 +25,14 @@
 **Machine Learning Engineer** specializing in **Deep Learning** and **Computer Vision** applications.
 - 🚀 Conducting research on **Computer Vision** and **Generative Models**.
 - 🎓 MSc in Computing Science @ [University of Groningen](https://www.rug.nl/?lang=en) focusing on <em>Intelligent Systems & Visual Computing</em>.
-- 
+- 📫 Reach me at: [edu.rohit.y@gmail.com](mailto:edu.rohit.y@gmail.com)
+
+---
+
+### 📈 My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rohit8y&theme=travelers-theme)](https://git.io/streak-stats)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit8y&layout=compact&theme=travelers-theme&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+
+
