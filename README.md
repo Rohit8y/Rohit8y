@@ -6,7 +6,7 @@
 <div align="center">
 <div id="badges">
   <a href="https://rohit8y.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/website-green?style=for-the-badge&logoColor=white" alt="Personal Badge"/>
+    <img src="https://img.shields.io/badge/website-green?style=for-the-badge&logoColor=white" alt="Personal website Badge"/>
   </a> 
   <a href="mailto:edu.rohit.y@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
