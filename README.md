@@ -1,7 +1,7 @@
 <h2 align="center"> Hi 👋, I'm Rohit Yadav</h2>
 
 
-<div align="center"><img target="_blank" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width = 500 height = 320></div>
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXY1NHgyN3VzMmozb29uN3J1YnhucXdobWhsamlzNHAyNGVnZWkzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/></div>
 
 <div align="center">
 <div id="badges">
